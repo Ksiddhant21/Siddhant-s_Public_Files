@@ -1,0 +1,35 @@
+ID,Title,Pre-Conditions,Post-Conditions,Steps Action,Steps Results,Result,"Test Type
+ (Sanity/ Regression)"
+1,"As a new user, verify the infinite loader is not visible on recently view section on home page",User should be login to site with new credentials,,"1- Go to Home Page
+2- Click on recently view section and observe loader is not visible and data is showing correctly without any delay
+","1-User should be on home page
+2- Infinte loader should not be visible and data should be shown correctly on recently view section unde table
+",Passed,Sanity
+2,"As a new user, verify the infinite loader is not visible on following section on home page",User should be login to site with new credentials,,"1- Go to Home Page
+2- Click on following section and observe loader is not visible and data is showing correctly without any delay
+","1-User should be on home page
+2- Infinte loader should not be visible and data should be shown correctly on following section unde table
+",Passed,Sanity
+3,"As a existing user, verify the infinite loader is not visible on recently view section on home page",User should be login to site with existing credentials,,"1- Go to Home Page
+2- Click on recently view section and observe loader is not visible and data is showing correctly without any delay
+","1-User should be on home page
+2- Infinte loader should not be visible and data should be shown correctly on recently view section unde table
+",Passed,Sanity
+4,"As a exisiting user, verify the infinite loader is not visible on following section on home page",User should be login to site with existing credentials,,"1- Go to Home Page
+2- Click on following section and observe loader is not visible and data is showing correctly without any delay
+","1-User should be on home page
+2- Infinte loader should not be visible and data should be shown correctly on following section unde table
+",Passed,Sanity
+5,"Verify empty states for all the tabs ( Recently Viewed, Waiting on you, Requested by you, Following) for new users.",User should be login to site with existing credentials,,"1- Go to Home Page
+2- Click on all tabs and observe the empty states showing correct data
+","1-User should be on home page
+2- Empty states should shown the empty data
+",Passed,Sanity
+6,To verify in all tabs data is visible for existing users,User should be login to site with existing credentials,,"1- Go to Home Page
+2- Click on fon tabs and observe loader is not visible and data is showing correctly without any delay
+","1-User should be on home page
+2- Infinte loader should not be visible and data should be shown correctly on following section unde table
+",Passed,Sanity
+7,To verify  all tabs in various browser is not showin the infinite loader and showing the correct data,User should be login to site with existing credentials,,"1- Go to various browsers (Like Safari, Chrome, Firefox) and login
+2- Click on all tabs and observe data is showing","1- User should be on various browsers (Like Safari, Chrome, Firefox) and login
+2- Infinte loader should not be visible and data should be shown correctly",Passed,Sanity
