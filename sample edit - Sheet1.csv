@@ -1,0 +1,14 @@
+ID,Title,Pre-Conditions,Steps Action,Steps Results,"Test Type
+  (Sanity/ Regression)"
+1,To verify child JSON field inheritating the data from parent JSON field,"User should be login to site
+ internal.slackcart.com","1. Go to WF i.e: PLAT-3534 
+ 2. Add Json value in parent json field
+ 3. Observe the parent json field's data is inheriting in child json field","1. User should be on WF i.e: PLAT-3534 
+ 2. Json value should be added parent json field
+ 3. Parent json field's data should be inherited in child json field",Sanity
+2,To verify updating the parent json field is reflecting in child json field,"User should be login to site
+ internal.slackcart.com","1. Go to WF i.e: PLAT-3534 
+ 2. Add Json value in parent json field
+ 3. Now update the data and observe Parent json field's data should be inherited in child json field","1. User should be on WF i.e: PLAT-3534 
+ 2. Parent json field's data should be inherited in child json field
+ 3. Parent json field's data should be inherited in child json field after updating",Sanity
