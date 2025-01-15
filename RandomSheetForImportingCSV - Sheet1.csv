@@ -1,0 +1,65 @@
+ID,Title,Pre-Conditions,Post-Conditions,Steps Action,Steps Results,Result,"Test Type
+ (Sanity/ Regression)"
+1,The Eiffel Tower can grow taller by about 15 cm in summer due to thermal expansion of iron.,User Authentication: The user must be logged into the system with valid credentials before accessing the dashboard.,,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
+2,Honey never spoils and can remain edible for thousands of years.,Network Connectivity: A stable internet connection should be available for data synchronization.,,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
+3,"Octopuses have three hearts, and their blood is blue due to copper-rich hemocyanin.","Browser Compatibility: The application must be accessed using a supported browser (e.g., Chrome, Firefox).",,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
+4,"Bananas are technically berries, while strawberries are not.",Test Data Availability: Required test data should be preloaded into the database before starting the test execution.,,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
+5,The shortest war in history lasted only 38 minutes between Britain and Zanzibar in 1896.,User Permissions: The user should have the necessary permissions to perform the desired actions.,,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
+6,"A group of flamingos is called a ""flamboyance.""",Application Setup: The latest version of the application should be installed on the test device.,,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
+7,The human nose can detect over 1 trillion different scents,System Time Configuration: The system date and time should be correctly configured for time-sensitive features.,,"1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity","1- Creating a New Email Account
+ 2- Go to the email provider's website
+3-Click on ""Sign Up""	
+4-Fill in required details	
+5-Verify your identity",Passed,Sanity
